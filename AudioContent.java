@@ -1,6 +1,3 @@
-// Name: Sabagan Chandrakanthan
-// Student ID: 501175020
-
 /*
  *  Audio Content contains information common to all types of audio (e.g. songs, audiobooks etc)
  */
