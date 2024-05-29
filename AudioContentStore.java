@@ -1,6 +1,3 @@
-// Name: Sabagan Chandrakanthan
-// Student ID: 501175020
-
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
