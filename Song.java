@@ -1,6 +1,3 @@
-// Name: Sabagan Chandrakanthan
-// Student ID: 501175020
-
 /*
  * A Song is a type of AudioContent. A Song has extra fields such as Artist (person(s) singing the song) and composer 
  */
