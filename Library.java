@@ -1,6 +1,3 @@
-// Name: Sabagan Chandrakanthan
-// Student ID: 501175020
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
